@@ -1,0 +1,16 @@
+{
+  "guilds": {
+    "1551781228858834944": {
+      "home_channel_id": "1551813456452124672",
+      "board_message_id": "1551822452202405888",
+      "roles": [
+        {
+          "role_id": "1551803206139379713",
+          "role_name": "Student",
+          "emoji": "🧑‍🎓",
+          "description": "[Student]"
+        }
+      ]
+    }
+  }
+}
